@@ -1,3 +1,1 @@
-Hello my  aame is umer
-sad boy
-wassuup
+This is my first git push file
